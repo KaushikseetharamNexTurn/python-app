@@ -3,8 +3,8 @@ kind: Component
 metadata:
   name: python-app
   description: Python app which displays the time
-    annotations:
-      github.com/project-slug: KaushikseetharamNexTurn/python-app
+  annotations:
+    github.com/project-slug: KaushikseetharamNexTurn/python-app
 spec:
   type: service
   owner: development
