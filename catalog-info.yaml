@@ -2,7 +2,6 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: python-app
-  description: Python_app_which_displays_the_time
   annotations:
     github.com/project-slug: KaushikseetharamNexTurn/python-app
 spec:
