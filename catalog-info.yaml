@@ -5,6 +5,7 @@ metadata:
   description: Python app which displays time.
   annotations:
     github.com/project-slug: KaushikseetharamNexTurn/python-app
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: development
