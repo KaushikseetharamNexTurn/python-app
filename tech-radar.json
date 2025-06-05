@@ -1,7 +1,10 @@
 {
   "title": "Python Tech Radar",
   "quadrants": [
-    { "id": "languages", "name": "Languages" }
+    { "id": "languages", "name": "Languages" },
+    { "id": "frameworks", "name": "Frameworks" },
+    { "id": "tools", "name": "Tools" },
+    { "id": "platforms", "name": "Platforms" }
   ],
   "rings": [
     { "id": "adopt", "name": "Adopt", "color": "#93c47d" },
@@ -13,7 +16,7 @@
     {
       "id": "python",
       "title": "Python",
-      "description": "A high-level, interpreted programming language widely used for scripting, automation, data science, and web development.",
+      "description": "A high-level, interpreted language used across scripting, web, automation, and ML.",
       "key": "python",
       "quadrant": "languages",
       "url": "https://www.python.org/",
@@ -22,7 +25,7 @@
           "moved": 0,
           "ringId": "adopt",
           "date": "2025-06-01",
-          "description": "Python is the primary language for this application"
+          "description": "Python adopted as primary dev language"
         }
       ]
     }
