@@ -1,0 +1,30 @@
+{
+  "title": "Python Tech Radar",
+  "quadrants": [
+    { "id": "languages", "name": "Languages" }
+  ],
+  "rings": [
+    { "id": "adopt", "name": "Adopt", "color": "#93c47d" },
+    { "id": "trial", "name": "Trial", "color": "#93d2c2" },
+    { "id": "assess", "name": "Assess", "color": "#fbdb84" },
+    { "id": "hold", "name": "Hold", "color": "#efafa9" }
+  ],
+  "entries": [
+    {
+      "id": "python",
+      "title": "Python",
+      "description": "A high-level, interpreted programming language widely used for scripting, automation, data science, and web development.",
+      "key": "python",
+      "quadrant": "languages",
+      "url": "https://www.python.org/",
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2025-06-01",
+          "description": "Python is the primary language for this application"
+        }
+      ]
+    }
+  ]
+}
